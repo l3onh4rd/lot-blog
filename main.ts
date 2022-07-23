@@ -18,6 +18,11 @@ blog({
   lang: "de",
   dateStyle: "long",
   favicon: "favicon.ico",
+  middlewares: [
+    redirects({
+      "/posts/new_vid_posts": "/videos",
+    }),
+  ],
 
   // middlewares: [
 
