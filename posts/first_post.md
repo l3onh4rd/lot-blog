@@ -9,6 +9,6 @@ Ich habe schon immer nach einer Möglichkeit gesucht mehr Informationen über me
 
 ## Das ist mein neuer Blog
 
-## Zum letzten Video
+## Zum letzten [Video](https://www.youtube.com/watch?v=_2M7qo1hWug)
 
-[![Mein neuestes Video, Link zu YouTube](http://img.youtube.com/vi/_2M7qo1hWug/0.jpg)](http://www.youtube.com/watch?v=_2M7qo1hWug)
+![Lebenslauf In Google Docs erstellen (Video Thumbnail!)](../thumbnails/Fertig375.jpg "Lebenslauf In Google Docs erstellen (Video Thumbnail!)")
