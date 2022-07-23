@@ -1,6 +1,6 @@
 ---
 title: Mein neuer Blog
-publish_date: 2022-07-23
+publish_date: 2022-07-22
 ---
 
 # Mein neuer Blog
