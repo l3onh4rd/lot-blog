@@ -7,6 +7,7 @@ blog({
   avatarClass: "rounded-full",
   author: "Leonhard Krause",
   links: [
+    { title: "Impressum", url:"https://leoofficetutorials.com/impressum"}, 
     { title: "Email", url: "mailto:leoofficetutorials@gmail.com" },
     { title: "YouTube", url: "https://youtube.com/Leoofficetutorials" },
     { title: "LinkedIn", url: "https://www.linkedin.com/in/leo-office-tutorials-937104217"},
