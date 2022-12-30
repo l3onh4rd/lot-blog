@@ -1,4 +1,4 @@
-import blog, { ga, redirects } from "https://deno.land/x/blog@0.4.2/blog.tsx";
+import blog, { ga, redirects } from "https://deno.land/x/blog@0.5.0/blog.tsx";
 
 blog({
   title: "Leo Office Tutorials",
