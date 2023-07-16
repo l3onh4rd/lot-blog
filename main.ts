@@ -1,4 +1,4 @@
-import blog, { ga, redirects } from "https://deno.land/x/blog@0.5.0/blog.tsx";
+import blog, { ga, redirects } from "https://deno.land/x/blog@0.7.0/blog.tsx";
 
 blog({
   title: "Leo Office Tutorials",
@@ -20,7 +20,6 @@ blog({
   dateStyle: "long",
   favicon: "favicon.ico",
   middlewares: [
-    // If you want to set up Google Analytics, paste your GA key here.
     ga(String(Deno.env.get("GA_CODE"))),
   ]
 });
